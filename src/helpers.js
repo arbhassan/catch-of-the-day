@@ -30,6 +30,7 @@ export function getFunName() {
     "fancy",
     "glamorous",
     "handsome",
+    "old-school",
     "long",
     "magnificent",
     "old-fashioned",
